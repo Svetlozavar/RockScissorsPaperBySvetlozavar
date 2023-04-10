@@ -14,3 +14,7 @@ The program is a game that simulates the game "Rock, Paper, Scissors" between a 
 ![image](https://user-images.githubusercontent.com/113771747/230895515-27b06d7f-1ddc-4c2b-9770-ddb60f1d2f1f.png)
 
 ![image](https://user-images.githubusercontent.com/113771747/230895602-04a43d7b-8d10-4b30-9f04-6855d3466349.png)
+
+You can play the game directly in your browser here:
+
+[![image](https://user-images.githubusercontent.com/113771747/230899533-2cb1c1e8-d066-439f-8a7d-5e566709455d.png)](https://replit.com/@Svetlozavar/RockScissorsPaper)
